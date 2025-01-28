@@ -1,4 +1,8 @@
-# Cline (prev. Claude Dev) – \#1 on OpenRouter
+<div align="center"><sub>
+English | <a href="./locales/es/README.md" target="_blank">Español</a> | <a href="./locales/de/README.md" target="_blank">Deutsch</a> | <a href="./locales/ja/README.md" target="_blank">日本語</a> | <a href="./locales/zh-cn/README.md" target="_blank">简体中文</a> | <a href="./locales/zh-tw/README.md" target="_blank">繁體中文</a>
+</sub></div>
+
+# Cline – \#1 on OpenRouter
 
 <p align="center">
   <img src="https://media.githubusercontent.com/media/cline/cline/main/assets/docs/demo.gif" width="100%" />
@@ -11,7 +15,10 @@
 <a href="https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev" target="_blank"><strong>Download on VS Marketplace</strong></a>
 </td>
 <td align="center">
-<a href="https://discord.gg/cline" target="_blank"><strong>Join the Discord</strong></a>
+<a href="https://discord.gg/cline" target="_blank"><strong>Discord</strong></a>
+</td>
+<td align="center">
+<a href="https://www.reddit.com/r/cline/" target="_blank"><strong>r/cline</strong></a>
 </td>
 <td align="center">
 <a href="https://github.com/cline/cline/discussions/categories/feature-requests?discussions_q=is%3Aopen+category%3A%22Feature+Requests%22+sort%3Atop" target="_blank"><strong>Feature Requests</strong></a>
